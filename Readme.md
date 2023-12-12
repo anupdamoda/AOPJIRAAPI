@@ -1,4 +1,4 @@
-<h1 align="center"> Automation of Atlassian Jira apis - sample project to use some market available apis  </h1> <br>
+<h1 align="center"> Automation of Atlassian Jira & Zephyr apis - sample project to use some market available apis  </h1> <br>
 
 <p align="center">
   Description: This is a demo project on java tech for testing and performing GET and POST on apis on Tasks of jira 
@@ -29,12 +29,16 @@ POST API- validate response code and response body - to create a Task
 PUT:
 ![img_3.png](img_3.png)
 
+POST API - test executions of Zephyr
+![img_5.png](img_5.png)
+
 
 
 
 ## Features
 Get Task: GET API
 UpdateStatusTask: POST API
+PostStatus Task: Zephyr API
 
 
 ## Test Requirements
